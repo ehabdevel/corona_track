@@ -19,10 +19,15 @@ git clone https://github.com/ehabdevel/corona_track.git
 then
 
 ```
+cd corona_track
+
 flutter run
 ```
 
-Or use your editor
+Or use your editor instruction to run/play the app
+
+---
+
 
 A few resources to get you started if this is your first Flutter project:
 
