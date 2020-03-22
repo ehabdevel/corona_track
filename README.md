@@ -3,8 +3,8 @@
 A new Flutter application.
 
 <p align="center">
-  <img src="https://github.com/ehabdevel/corona_track/blob/master/public/screenshot/screenshot1.png" />
-  <img src="https://github.com/ehabdevel/corona_track/blob/master/public/screenshot/screenshot2.png" />
+  <img src="https://github.com/ehabdevel/corona_track/blob/master/screenshot1.png" />
+  <img src="https://github.com/ehabdevel/corona_track/blob/master/screenshot2.png" />
 </p>
 
 ## Getting Started
