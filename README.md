@@ -11,10 +11,10 @@ A new Flutter application.
 
 This project is a starting point for Corona Track Flutter application.
 
-* To run the app locally use:
+* To start this app locally use:
 
 ```
-https://github.com/ehabdevel/corona_track.git
+git clone https://github.com/ehabdevel/corona_track.git
 ```
 then
 
