@@ -4,7 +4,20 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for Corona Track Flutter application.
+
+* To run the app locally use:
+
+```
+https://github.com/ehabdevel/corona_track.git
+```
+then
+
+```
+flutter run
+```
+
+Or use your editor
 
 A few resources to get you started if this is your first Flutter project:
 
